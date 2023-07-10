@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="descend" />
+        <module name="user-input" />
         <module name="variables" />
         <module name="Iterate" />
       </profile>

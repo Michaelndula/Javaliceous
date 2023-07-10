@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Javaliceous.iml" filepath="$PROJECT_DIR$/.idea/Javaliceous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/var-prac.iml" filepath="$PROJECT_DIR$/var-prac.iml" />
     </modules>
   </component>
 </project>

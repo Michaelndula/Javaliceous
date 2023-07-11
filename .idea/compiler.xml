@@ -10,6 +10,7 @@
         <module name="user-input" />
         <module name="variables" />
         <module name="TipCalculator" />
+        <module name="conditions" />
         <module name="Iterate" />
       </profile>
     </annotationProcessing>

@@ -10,6 +10,7 @@
         <module name="switch-statement" />
         <module name="variables" />
         <module name="TipCalculator" />
+        <module name="operators" />
         <module name="Iterate" />
         <module name="user-input" />
         <module name="boilingWater" />

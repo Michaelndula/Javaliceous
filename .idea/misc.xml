@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/data-types/pom.xml" />
         <option value="$PROJECT_DIR$/operators/pom.xml" />
         <option value="$PROJECT_DIR$/control_statements/pom.xml" />
+        <option value="$PROJECT_DIR$/jump_statements/pom.xml" />
       </list>
     </option>
   </component>

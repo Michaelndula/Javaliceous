@@ -13,6 +13,7 @@
         <module name="Iterate" />
         <module name="boilingWater" />
         <module name="leapYear" />
+        <module name="fibonacci_series" />
         <module name="jump_statements" />
         <module name="operators" />
         <module name="user-input" />

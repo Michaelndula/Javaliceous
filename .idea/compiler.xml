@@ -15,6 +15,7 @@
         <module name="leapYear" />
         <module name="fibonacci_series" />
         <module name="jump_statements" />
+        <module name="Object_Oriented_Programming" />
         <module name="operators" />
         <module name="user-input" />
         <module name="control_statements" />

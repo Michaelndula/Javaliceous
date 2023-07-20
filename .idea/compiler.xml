@@ -12,6 +12,7 @@
         <module name="TipCalculator" />
         <module name="Iterate" />
         <module name="boilingWater" />
+        <module name="bankingApp" />
         <module name="leapYear" />
         <module name="fibonacci_series" />
         <module name="jump_statements" />

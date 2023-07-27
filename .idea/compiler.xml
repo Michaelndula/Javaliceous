@@ -24,6 +24,7 @@
         <module name="operators" />
         <module name="user-input" />
         <module name="control_statements" />
+        <module name="constructor_copy" />
         <module name="conditions" />
         <module name="data-types" />
       </profile>

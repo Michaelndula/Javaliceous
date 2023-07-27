@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/method/pom.xml" />
         <option value="$PROJECT_DIR$/constructor/pom.xml" />
         <option value="$PROJECT_DIR$/constructor_overloading/pom.xml" />
+        <option value="$PROJECT_DIR$/constructor_copy/pom.xml" />
       </list>
     </option>
   </component>

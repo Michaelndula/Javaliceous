@@ -1,3 +1,5 @@
+package default_constructor;
+
 public class default_constructor {
     default_constructor(){System.out.println("Consturctor was called");}
 

@@ -13,6 +13,7 @@
         <module name="TipCalculator" />
         <module name="method" />
         <module name="Iterate" />
+        <module name="constructor" />
         <module name="boilingWater" />
         <module name="bankingApp" />
         <module name="leapYear" />

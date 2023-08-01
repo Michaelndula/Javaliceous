@@ -12,6 +12,7 @@
         <module name="area-of-rectangle" />
         <module name="variables" />
         <module name="TipCalculator" />
+        <module name="static" />
         <module name="method" />
         <module name="Iterate" />
         <module name="constructor" />

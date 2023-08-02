@@ -15,6 +15,7 @@
         <module name="static" />
         <module name="method" />
         <module name="Iterate" />
+        <module name="Inheritance" />
         <module name="constructor" />
         <module name="boilingWater" />
         <module name="bankingApp" />

@@ -6,30 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="constructor_overloading" />
-        <module name="descend" />
         <module name="switch-statement" />
-        <module name="area-of-rectangle" />
         <module name="this_keyword" />
-        <module name="variables" />
         <module name="TipCalculator" />
-        <module name="static" />
-        <module name="method" />
         <module name="Iterate" />
         <module name="Inheritance" />
+        <module name="fibonacci_series" />
+        <module name="jump_statements" />
+        <module name="operators" />
+        <module name="data-types" />
+        <module name="constructor_overloading" />
+        <module name="descend" />
+        <module name="area-of-rectangle" />
+        <module name="variables" />
+        <module name="static" />
+        <module name="method" />
         <module name="constructor" />
         <module name="boilingWater" />
         <module name="bankingApp" />
         <module name="leapYear" />
-        <module name="fibonacci_series" />
-        <module name="jump_statements" />
         <module name="Object_Oriented_Programming" />
-        <module name="operators" />
         <module name="user-input" />
         <module name="control_statements" />
         <module name="constructor_copy" />
         <module name="conditions" />
-        <module name="data-types" />
+        <module name="Polymorphism" />
       </profile>
     </annotationProcessing>
   </component>

@@ -28,6 +28,7 @@
         <option value="$PROJECT_DIR$/static/pom.xml" />
         <option value="$PROJECT_DIR$/Inheritance/pom.xml" />
         <option value="$PROJECT_DIR$/this_keyword/pom.xml" />
+        <option value="$PROJECT_DIR$/Polymorphism/pom.xml" />
       </list>
     </option>
   </component>

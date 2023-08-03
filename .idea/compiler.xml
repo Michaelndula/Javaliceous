@@ -10,6 +10,7 @@
         <module name="descend" />
         <module name="switch-statement" />
         <module name="area-of-rectangle" />
+        <module name="this_keyword" />
         <module name="variables" />
         <module name="TipCalculator" />
         <module name="static" />

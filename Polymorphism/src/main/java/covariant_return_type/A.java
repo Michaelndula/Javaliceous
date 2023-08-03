@@ -5,6 +5,7 @@ public class A {
 }
 
 class B extends A{
+    @Override
     B get(){
         return this;
     }

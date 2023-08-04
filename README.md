@@ -1,3 +1,3 @@
 # 100 Days of JAVA
 
-![](https://www.ubt-uni.net/en/study/professional-school/trainings/professional-trainings/java-programming/)
+![](https://github.com/Michaelndula/Javaliceous/blob/main/image/java.jpg?raw=true)

@@ -11,6 +11,7 @@
         <module name="TipCalculator" />
         <module name="Iterate" />
         <module name="Inheritance" />
+        <module name="binding" />
         <module name="fibonacci_series" />
         <module name="jump_statements" />
         <module name="operators" />

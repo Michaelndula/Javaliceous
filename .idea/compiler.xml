@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Encapsulation" />
         <module name="switch-statement" />
         <module name="this_keyword" />
         <module name="TipCalculator" />

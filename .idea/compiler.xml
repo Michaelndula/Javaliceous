@@ -30,6 +30,7 @@
         <module name="leapYear" />
         <module name="Abstraction" />
         <module name="Object_Oriented_Programming" />
+        <module name="Array" />
         <module name="user-input" />
         <module name="control_statements" />
         <module name="constructor_copy" />

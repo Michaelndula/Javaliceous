@@ -23,6 +23,7 @@
         <module name="variables" />
         <module name="static" />
         <module name="method" />
+        <module name="Access_Modifiers" />
         <module name="constructor" />
         <module name="boilingWater" />
         <module name="bankingApp" />

@@ -32,6 +32,7 @@
         <option value="$PROJECT_DIR$/binding/pom.xml" />
         <option value="$PROJECT_DIR$/Abstraction/pom.xml" />
         <option value="$PROJECT_DIR$/Encapsulation/pom.xml" />
+        <option value="$PROJECT_DIR$/Access_Modifiers/pom.xml" />
       </list>
     </option>
   </component>
